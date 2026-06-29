@@ -1,4 +1,5 @@
 # Smart_Water_control_and_Irrigation_System
+<img width="1040" height="840" alt="SWCIS simmulation" src="https://github.com/user-attachments/assets/232df21a-b416-4d9e-be24-b1eb6e87e37e" />
 🌱 Automatic Water Control System with Smart Irrigation System
 
 An Arduino-based intelligent water management system that integrates automatic water tank control with smart irrigation to minimize water wastage, improve agricultural efficiency, and promote sustainable water resource management.
@@ -91,11 +92,11 @@ Soil Moist?
 
 Water Tank Controller:
 
-      The ultrasonic sensor measures the water level inside the tank. When the water level drops below the predefined threshold, the Arduino activates the water pump through the L293D motor driver. Once the tank reaches its maximum level, the pump is switched OFF automatically.
+The ultrasonic sensor measures the water level inside the tank. When the water level drops below the predefined threshold, the Arduino activates the water pump through the L293D motor driver. Once the tank reaches its maximum level, the pump is switched OFF automatically.
 
 Smart Irrigation:
 
-       The soil moisture sensor continuously measures the moisture content of the soil. If the moisture level falls below the threshold value, the irrigation pump starts automatically. After the soil becomes adequately moist, the pump stops.
+The soil moisture sensor continuously measures the moisture content of the soil. If the moisture level falls below the threshold value, the irrigation pump starts automatically. After the soil becomes adequately moist, the pump stops.
 
 🌍 Applications
 
