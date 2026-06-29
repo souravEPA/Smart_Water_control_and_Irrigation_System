@@ -1,7 +1,7 @@
 # Smart_Water_control_and_Irrigation_System
 🌱 Automatic Water Control System with Smart Irrigation System
 
-      An Arduino-based intelligent water management system that integrates automatic water tank control with smart irrigation to minimize water wastage, improve agricultural efficiency, and promote sustainable water resource management.
+An Arduino-based intelligent water management system that integrates automatic water tank control with smart irrigation to minimize water wastage, improve agricultural efficiency, and promote sustainable water resource management.
 
 📖 Project Overview
 
